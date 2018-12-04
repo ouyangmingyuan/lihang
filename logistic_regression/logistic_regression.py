@@ -1,9 +1,4 @@
 # encoding=utf-8
-# @Author: WenDesi
-# @Date:   08-11-16
-# @Email:  wendesi@foxmail.com
-# @Last modified by:   WenDesi
-# @Last modified time: 08-11-16
 
 import time
 import math

@@ -1,7 +1,6 @@
 # encoding=utf8
 
 import numpy as np
-import csv
 
 
 class HMM(object):

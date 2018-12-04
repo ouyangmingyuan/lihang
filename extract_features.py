@@ -2,9 +2,7 @@
 
 import numpy as np
 import cv2
-import time
 import struct
-import matplotlib.pyplot as plt
 
 
 def loadImageSet(which=0):

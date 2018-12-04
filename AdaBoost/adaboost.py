@@ -1,9 +1,4 @@
 # encoding=utf-8
-# @Author: wendesi
-# @Date:   15-11-16
-# @Email:  wendesi@foxmail.com
-# @Last modified by:   wendesi
-# @Last modified time: 17-11-16
 
 import cv2
 import time

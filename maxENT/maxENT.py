@@ -1,17 +1,9 @@
 # encoding=utf-8
-# @Author: WenDesi
-# @Date:   05-11-16
-# @Email:  wendesi@foxmail.com
-# @Last modified by:   WenDesi
-# @Last modified time: 09-11-16
-
 
 import pandas as pd
-import numpy as np
 
 import time
 import math
-import random
 
 from collections import defaultdict
 

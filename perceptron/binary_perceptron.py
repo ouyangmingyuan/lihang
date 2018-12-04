@@ -1,14 +1,6 @@
 # encoding=utf-8
-# @Author: WenDesi
-# @Date:   09-08-16
-# @Email:  wendesi@foxmail.com
-# @Last modified by:   WenDesi
-# @Last modified time: 08-11-16
-
 
 import pandas as pd
-import numpy as np
-import cv2
 import random
 import time
 

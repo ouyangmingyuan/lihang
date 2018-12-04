@@ -1,18 +1,7 @@
 # encoding=utf-8
-# @Author: WenDesi
-# @Date:   12-11-16
-# @Email:  wendesi@foxmail.com
-# @Last modified by:   WenDesi
-# @Last modified time: 13-11-16
-
-
 
 import time
-import random
 import logging
-
-import pandas as pd
-from sklearn.cross_validation import train_test_split
 from sklearn.metrics import accuracy_score
 
 from generate_dataset import *
